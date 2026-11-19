@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "titulo": "Born to Dieee",
+    "artista": "Lana Del Rey",
+    "anio": 2012
+  },
+  {
+    "id": 2,
+    "titulo": "21",
+    "artista": "Adele",
+    "anio": 2011
+  },
+  {
+    "id": 3,
+    "titulo": "De todas las flores",
+    "artista": "Natalia Lafourcade",
+    "anio": 2022
+  },
+  {
+    "id": 5,
+    "titulo": "White Album",
+    "artista": "The Beatles",
+    "anio": 1968
+  },
+  {
+    "id": 7,
+    "titulo": "Life in Cartoon Motion",
+    "artista": "Mika",
+    "anio": 2005
+  }
+]
